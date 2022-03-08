@@ -79,7 +79,7 @@ namespace OOPS__AllSession
 
 
 
-           // Console.WriteLine("********Welcome To Main Method***********");
+            // Console.WriteLine("********Welcome To Main Method***********");
 
 
             //S16__Delegates
@@ -114,8 +114,15 @@ namespace OOPS__AllSession
 
             //S17__Anonymous Function And LambdaExpression
 
-            S17__AnonymousMethodAndLambdaExpression anonymousMethod = new S17__AnonymousMethodAndLambdaExpression();
-            S17__AnonymousMethodAndLambdaExpression.AnonymousMethod();
+            // S17__AnonymousMethodAndLambdaExpression anonymousMethod = new S17__AnonymousMethodAndLambdaExpression();
+            //S17__AnonymousMethodAndLambdaExpression.AnonymousMethod();
+
+
+
+            S18__StringAndStrinBuilder stringBuilder = new S18__StringAndStrinBuilder();
+            stringBuilder.StringManupulation();
+            stringBuilder.StringBuilder();
+            stringBuilder.StringBuilder_Methods();
 
             Console.ReadLine();
         }
