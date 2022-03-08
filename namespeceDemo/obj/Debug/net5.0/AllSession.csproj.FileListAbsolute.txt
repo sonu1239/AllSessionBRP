@@ -1,0 +1,15 @@
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\AllSession.exe
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\AllSession.deps.json
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\AllSession.runtimeconfig.json
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\AllSession.runtimeconfig.dev.json
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\AllSession.dll
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\ref\AllSession.dll
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\bin\Debug\net5.0\AllSession.pdb
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.AssemblyInfoInputs.cache
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.AssemblyInfo.cs
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.csproj.CoreCompileInputs.cache
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.dll
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\ref\AllSession.dll
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.pdb
+C:\Users\MY\source\repos\namespeceDemo\namespeceDemo\obj\Debug\net5.0\AllSession.genruntimeconfig.cache

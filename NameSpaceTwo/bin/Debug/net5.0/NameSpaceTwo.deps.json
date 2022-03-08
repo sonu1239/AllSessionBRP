@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NameSpaceTwo/1.0.0": {
+        "dependencies": {
+          "AllSession": "1.0.0"
+        },
+        "runtime": {
+          "NameSpaceTwo.dll": {}
+        }
+      },
+      "AllSession/1.0.0": {
+        "runtime": {
+          "AllSession.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NameSpaceTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AllSession/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
